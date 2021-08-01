@@ -3,7 +3,7 @@
 ### Descripción del Proyecto a Entregar (Corta)
 facilitar la busqueda de medicamentos en las clinicas por medio desu receta medica
 ### Link al Tiktok
-
+https://vm.tiktok.com/ZMd3ecCdg/
 ### Diagrama de Azure
 ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/86922832/127767864-1877f2db-108d-4426-bd22-da7d3783d1a6.png)
 
